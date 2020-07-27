@@ -1,4 +1,4 @@
-## Bienvenidos al Grupo de Trabajo en Bioinformatica y Ciencia de Datos
+## Grupo de Trabajo Interdisciplinario en Bioinformática, Biología Computacional y Ciencia de Datos 
 
 ### Quienes Somos?
 
