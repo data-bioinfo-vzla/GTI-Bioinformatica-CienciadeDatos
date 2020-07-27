@@ -23,3 +23,4 @@ Buscamos aportar desde un conjunto amplio de formaciones que cubren diferentes d
 - **Rafael J. Puche Q** . Biólogo. Doctorante en Ciencias Biológicas (USB). Profesional Asociado a la Investigación, Unidad de Estudios Genéticos y Forenses, Instituto Venezolano de Investigaciones Cientificas (IVIC)
 - **Fernando Hernandez**. Biólogo. Doctor en Inmunología (IVIC). Profesional Asociado a la Investigación, Laboratorio de Fisiopatología, Instituto Venezolano de Investigaciones Cientificas (IVIC)
 - **Carlos Ramirez**. Biólogo. Doctor en Genética Humana (IVIC). Jefe de la Unidad de Estudios Genéticos y Forenses, Instituto Venezolano de Investigaciones Cientificas (IVIC)
+- **Yugdalia Y. Garcia** Instituto Venezolano de Investigaciones Científicas, Caracas - Venezuela
