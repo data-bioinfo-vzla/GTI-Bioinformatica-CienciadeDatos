@@ -1,12 +1,11 @@
 ## Bienvenidos al Grupo de Trabajo en Bioinformatica y Ciencia de Datos
 
-You can use the [editor on GitHub](https://github.com/data-bioinfo-vzla/databioinfovzla.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Quienes Somos?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Somos un grupo de científicos e investigadores venezolanos que trabajan en diversas áreas del conocimiento científico, en su mayoría adscritos al Instituto Venezolano de Investigaciones Científicas (IVIC), reunidos con el objetivo de brindar respuestas a las ciencias biológicas usando herramientas computacionales como eje central y transversal en nuestro quehacer científico.
 
-### Markdown
+Buscamos aportar desde un conjunto amplio de formaciones que cubren diferentes disciplinas (Biología, Física, Matemática, Medicina, entre otras) para el estudio, análisis y comprensión de problemas relacionados con el análisis de gran cantidad de datos biológicos generados por las diversas ciencias ómicas que han surgido recientemente.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
