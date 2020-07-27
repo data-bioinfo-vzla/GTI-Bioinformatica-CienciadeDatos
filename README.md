@@ -7,30 +7,19 @@ Somos un grupo de científicos e investigadores venezolanos que trabajan en dive
 Buscamos aportar desde un conjunto amplio de formaciones que cubren diferentes disciplinas (Biología, Física, Matemática, Medicina, entre otras) para el estudio, análisis y comprensión de problemas relacionados con el análisis de gran cantidad de datos biológicos generados por las diversas ciencias ómicas que han surgido recientemente.
 
 
-```markdown
-Syntax highlighted code block
+### Tópicos de Interés 
+- Almacenamiento, procesamiento y análisis de datos de NGS.
+- Genómica microbiana
+- Transcriptómica, evaluación de perfiles de expresión en diversas patologías  
+- Estudio de Redes Biológicas, redes de coexpresión génica   
+- Ciencia de Datos, generacion e implementacion de modelos predictivos 
+- Aprendizaje Automático y Redes Neuronales aplicado a datos genómicos
+- Analisis de imagenes de interes biomedico, empleando redes neuronales convolucionales  
+- Aplicaciones Matemáticas a Estructuras Biológicas  
 
-# Header 1
-## Header 2
-### Header 3
+### Integrantes
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/data-bioinfo-vzla/databioinfovzla.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Esther Gutierrez**. Fisica. Doctora en Física (IVIC), Laboratorio de Dinamica Estocastica, Instituto Venezolano de Investigaciones Cientificas (IVIC). 
+- **Rafael J. Puche Q** . Biólogo. Doctorante en Ciencias Biológicas (USB). Profesional Asociado a la Investigación, Unidad de Estudios Genéticos y Forenses, Instituto Venezolano de Investigaciones Cientificas (IVIC)
+- **Fernando Hernandez**. Biólogo. Doctor en Inmunología (IVIC). Profesional Asociado a la Investigación, Laboratorio de Fisiopatología, Instituto Venezolano de Investigaciones Cientificas (IVIC)
+- **Carlos Ramirez**. Biólogo. Doctor en Genética Humana (IVIC). Jefe de la Unidad de Estudios Genéticos y Forenses, Instituto Venezolano de Investigaciones Cientificas (IVIC)
